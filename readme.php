@@ -1,4 +1,4 @@
-ere You will get all the api calls and their detailed description. All calls are provided here. These apis returns in json format which is much faster then XML format. All the code has been already written in the files you just need to call these url with the particular methods and decode the result in iphone or android appa you can also use these services for website for that you need to use CURL in you application to get the results. 
+Here You will get all the api calls and their detailed description. All calls are provided here. These apis returns in json format which is much faster then XML format. All the code has been already written in the files you just need to call these url with the particular methods and decode the result in iphone or android appa you can also use these services for website for that you need to use CURL in you application to get the results. 
 To use these api's need to upload api folder on you root folder on your server. so the url will be - http://www.example.com/api 
 
 1. Get country list from database.
